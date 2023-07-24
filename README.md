@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ivan
+### Hello there 👋, I'm Ivan
 #### AI & ML Engineering Student
 I am very passionate about machine learning and artificial intelligence in general. I like making fun mini projects on stuff that interests me like the solar system and football. I believe I'm a creative individual who brings the best to whatever he works on. Always down to connect with individuals with similar interests.
 
