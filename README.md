@@ -5,7 +5,7 @@ I am very passionate about machine learning and artificial intelligence in gener
 **Skills:** Python/C/C++/Java/Machine Learning/Deep Learning/Neural Networks/Computer Vision
 
 - 🔭 I’m currently working on a Football Analytics model 
-- 🌱 I’m currently learning Unreal Engine 5 
+- 🌱 I’m currently learning Game Dev on Unreal Engine 5 
 - 👯 I’m looking to collaborate on Generative AI Projects 
 - 💬 Ask me about literally anything. I'd love to make new bonds. 
 - 📫 How to reach me: ivan.reni.varghese@gmail.com 
