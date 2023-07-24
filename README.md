@@ -12,9 +12,5 @@ Skills: Python/C/C++/Java/Machine Learning/Deep Learning/Neural Networks/Compute
 - 😄 Pronouns: he/him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ivan-reni-varghese)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ ivan-reni-varghese-562446204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ivan.reni.varghese/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-reni-varghese&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ivan-reni-varghese)  
 
